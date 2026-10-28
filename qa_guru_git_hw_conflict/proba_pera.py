@@ -1,4 +1,5 @@
 a = 5
 b = 7
 c = 4
-print(a + b + c)
+summa = a + b + c
+print(f'summa = {summa}')
